@@ -9,3 +9,6 @@ authors = [
 package-mode = false
 readme = "README.md"
 requires-python = ">=3.13"
+
+[tool.poetry]
+packages = [{ include = "expressions" }]
