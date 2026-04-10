@@ -1,0 +1,11 @@
+[project]
+name = "PyExpressions"
+version = "0.8.0"
+description = "Python String Expressions allowing runtime creation and definition of String Logic Expressions"
+license = {text = "Apache License"}
+authors = [
+    { name = "Michael R. Bernstein", email = "mrb1778@gmail.com" }
+]
+package-mode = false
+readme = "README.md"
+requires-python = ">=3.13"
